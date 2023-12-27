@@ -36,3 +36,9 @@ var myVar = "Hello, world!";
 ``` javascript
 "my attempt";
 ```
+
+# STEP 4: Make a TASK LIST
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
