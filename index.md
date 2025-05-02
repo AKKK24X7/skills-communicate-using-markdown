@@ -11,3 +11,14 @@
 ## CHAPTER 2 ADDING aN IMAGE 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### Image of YAKTOCAT  ![Image of Yaktocat]
+
+## CHAPTER 3 ADDING a CODE
+### GIT INIT
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+### JAVASCRIPT
+``` javascript
+var myVar = "Hello, world!";
+```
